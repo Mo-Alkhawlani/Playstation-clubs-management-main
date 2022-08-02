@@ -13,8 +13,8 @@ C# &amp;  Flutter (Mobile App) PlayStation clubs management
 For Trial Version Send my email
 
 # Desktop App Screenshot
-<p align="center"><img src="https://github.com/Mo-Alkhawlani/Playstation-clubs-management/blob/main/screenshots/Desktop%20APP/0.png"></p>
-<p align="center"><img src="https://github.com/Mo-Alkhawlani/Playstation-clubs-management/blob/main/screenshots/Desktop%20APP/Annotation%202021-08-15%20214359.png"></p>
-<p align="center"><img src="https://github.com/Mo-Alkhawlani/Playstation-clubs-management/blob/main/screenshots/Desktop%20APP/Annotation%202021-08-15%20213102.png"></p>
-<p align="center"><img src="https://github.com/Mo-Alkhawlani/Playstation-clubs-management/blob/main/screenshots/Desktop%20APP/Annotation%202021-08-17%20203459.png"></p>
+<p align="center"><img src="https://github.com/Mo-Alkhawlani/Playstation-clubs-management-main/blob/main/screenshots/Desktop%20APP/0.png"></p>
+<p align="center"><img src="https://github.com/Mo-Alkhawlani/Playstation-clubs-management-main/blob/main/screenshots/Desktop%20APP/Annotation%202021-08-15%20214359.png"></p>
+<p align="center"><img src="https://github.com/Mo-Alkhawlani/Playstation-clubs-management-main/blob/main/screenshots/Desktop%20APP/Annotation%202021-08-17%20203402.png"></p>
+<p align="center"><img src="https://github.com/Mo-Alkhawlani/Playstation-clubs-management-main/blob/main/screenshots/Desktop%20APP/Annotation%202021-08-17%20203459.png"></p>
 
